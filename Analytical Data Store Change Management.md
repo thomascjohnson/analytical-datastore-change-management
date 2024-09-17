@@ -464,7 +464,7 @@ if __name__ == "__main__":
 
 ```
 
-Generating this dependency graph with tables in red and views in blue:
+Generating this dependency graph with tables in blue and views in red:
 
 ![](./graph.svg)
 
